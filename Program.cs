@@ -39,7 +39,7 @@ builder.Services.AddAuthentication(options =>
         ValidIssuer = jwtSettings["Issuer"],
         ValidateAudience = true,
         ValidAudience = jwtSettings["Audience"],
-        ClockSkew = TimeSpan.Zero
+        ClockSkew = TimeSpan.Zero // No delay in token expiration
     };
 });
 
@@ -56,7 +56,7 @@ builder.Services.AddScoped<ILoginRepository, LoginRepository>();
 // Build the application
 var app = builder.Build();
 
-// Middleware configurations **after** app is defined
+// Middleware configurations after the app is built
 app.UseCors("CorsPolicy");
 
 if (app.Environment.IsDevelopment())

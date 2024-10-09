@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using To_do_list.Models;
 using To_do_list.Repositories;
 
@@ -49,10 +48,6 @@ namespace To_do_list.Controllers
             catch (ArgumentException ex)
             {
                 return BadRequest(ex.Message);
-            }
-            catch (DbUpdateException)
-            {
-                return BadRequest("Failed to create account. Please try again later.");
             }
         }
 

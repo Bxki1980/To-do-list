@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\to-do-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\to-do-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|c:\\users\\moham\\onedrive\\desktop\\github\\to-do-list\\swagger\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:swagger\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\models\\authenticatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,28 +43,12 @@
       "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\migrations\\20241004000628_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:migrations\\20241004000628_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:repositories\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\models\\todomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -69,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\to-do-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0776797D-64E7-498D-9D7E-A4D0366136D9}|To-do-list.csproj|solutionrelative:to-do-list.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\moham\\onedrive\\desktop\\github\\to-do-list\\swagger\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:swagger\\configureswaggeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,23 +82,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 6,
               "Title": "ConfigureSwaggerOptions.cs",
-              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\swagger\\ConfigureSwaggerOptions.cs",
-              "RelativeDocumentMoniker": "swagger\\ConfigureSwaggerOptions.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\swagger\\ConfigureSwaggerOptions.cs",
-              "RelativeToolTip": "swagger\\ConfigureSwaggerOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Swagger\\ConfigureSwaggerOptions.cs",
+              "RelativeDocumentMoniker": "Swagger\\ConfigureSwaggerOptions.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Swagger\\ConfigureSwaggerOptions.cs",
+              "RelativeToolTip": "Swagger\\ConfigureSwaggerOptions.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T22:56:28.659Z"
+              "WhenOpened": "2024-10-09T20:36:57.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -110,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "20241004000628_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Migrations\\20241004000628_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241004000628_InitialCreate.cs",
@@ -122,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "20241004000455_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Migrations\\20241004000455_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241004000455_InitialCreate.cs",
@@ -134,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -146,44 +147,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAD8AAAAAAAAAAAAYwE0AAAADAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAowFUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-03T23:47:52.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "ToDoRepository.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Repositories\\ToDoRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ToDoRepository.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Repositories\\ToDoRepository.cs",
               "RelativeToolTip": "Repositories\\ToDoRepository.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAA1wEQAAAAAAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T23:04:39.376Z"
+              "WhenOpened": "2024-10-03T23:04:39.376Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "LoginRepository.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Repositories\\LoginRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\LoginRepository.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Repositories\\LoginRepository.cs",
               "RelativeToolTip": "Repositories\\LoginRepository.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwA0AAAArAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCgAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T23:02:54.062Z"
+              "WhenOpened": "2024-10-03T23:02:54.062Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "IToDoRepository.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Repositories\\IToDoRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IToDoRepository.cs",
@@ -191,11 +194,12 @@
               "RelativeToolTip": "Repositories\\IToDoRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T23:02:29.384Z"
+              "WhenOpened": "2024-10-03T23:02:29.384Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ILoginRepository.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Repositories\\ILoginRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ILoginRepository.cs",
@@ -207,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ToDoModel.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Models\\ToDoModel.cs",
               "RelativeDocumentMoniker": "Models\\ToDoModel.cs",
@@ -219,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "UserModel.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Models\\UserModel.cs",
               "RelativeDocumentMoniker": "Models\\UserModel.cs",
@@ -231,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "AuthenticateModel.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Models\\AuthenticateModel.cs",
               "RelativeDocumentMoniker": "Models\\AuthenticateModel.cs",
@@ -243,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "ServiceExtensions.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Extensions\\ServiceExtensions.cs",
               "RelativeDocumentMoniker": "Extensions\\ServiceExtensions.cs",
@@ -255,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "Data\\DataContext.cs",
@@ -267,31 +271,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ToDoController.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Controllers\\ToDoController.cs",
               "RelativeDocumentMoniker": "Controllers\\ToDoController.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Controllers\\ToDoController.cs",
               "RelativeToolTip": "Controllers\\ToDoController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAwCsAAAAAAAAA",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAiwIwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T22:54:45.604Z"
+              "WhenOpened": "2024-10-03T22:54:45.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
               "ToolTip": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Controllers\\LoginController.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAABRwDwAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T22:54:20.596Z"
+              "WhenOpened": "2024-10-03T22:54:20.596Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "To-do-list.csproj",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Desktop\\GitHub\\To-do-list\\To-do-list.csproj",
               "RelativeDocumentMoniker": "To-do-list.csproj",

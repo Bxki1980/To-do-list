@@ -137,3 +137,4 @@ C:\Users\moham\OneDrive\Desktop\GitHub\To-do-list\obj\Debug\net8.0\To-do-list.pd
 C:\Users\moham\OneDrive\Desktop\GitHub\To-do-list\obj\Debug\net8.0\To-do-list.genruntimeconfig.cache
 C:\Users\moham\OneDrive\Desktop\GitHub\To-do-list\obj\Debug\net8.0\ref\To-do-list.dll
 C:\Users\moham\OneDrive\Desktop\GitHub\To-do-list\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\moham\OneDrive\Desktop\GitHub\To-do-list\obj\Debug\net8.0\To-do-list.sourcelink.json

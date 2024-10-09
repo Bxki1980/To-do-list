@@ -16,6 +16,7 @@ namespace To_do_list.Repositories
             _dataContext = context;
         }
 
+        // Create a new task
         public ToDoModel CreateTask(string task, string startDate, string deadline, string status, int userId)
         {
             var newTask = new ToDoModel
@@ -32,7 +33,8 @@ namespace To_do_list.Repositories
             return newTask;
         }
 
-        public async void DeleteTask(int id)
+        // Delete a task
+        public async Task DeleteTask(int id)
         {
             var task = await _dataContext.ToDoModel.FindAsync(id);
             if (task != null)
@@ -42,21 +44,25 @@ namespace To_do_list.Repositories
             }
         }
 
+        // Get all tasks
         public async Task<IEnumerable<ToDoModel>> GetAllTasks()
         {
             return await _dataContext.ToDoModel.OrderBy(x => x.ID).ToListAsync();
         }
 
+        // Get tasks by title
         public async Task<IEnumerable<ToDoModel>> GetByTitle(string task)
         {
             return await _dataContext.ToDoModel.Where(x => x.Task == task).ToListAsync();
         }
 
-        public async Task<IEnumerable<ToDoModel>> GetById(int id)
+        // Get tasks by ID
+        public async Task<ToDoModel> GetById(int id)
         {
-            return await _dataContext.ToDoModel.Where(x => x.ID == id).ToListAsync();
+            return await _dataContext.ToDoModel.FindAsync(id);
         }
 
+        // Update task details
         public async Task UpdateTask(int id, string task, string startDate, string deadline, string status)
         {
             var existingTask = await _dataContext.ToDoModel.FindAsync(id);
@@ -72,6 +78,7 @@ namespace To_do_list.Repositories
             }
         }
 
+        // Search for tasks by string
         public async Task<List<ToDoModel>> SearchTasksByTaskStringAsync(string taskString)
         {
             return await _dataContext.ToDoModel
